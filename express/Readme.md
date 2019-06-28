@@ -18,7 +18,7 @@ app.get('/', function (req, res) {
 
 app.listen(3000)
 ```
-#
+#Ran the handled and cookie tests real quick to test the cases
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
